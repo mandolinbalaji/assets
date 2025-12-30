@@ -4,6 +4,7 @@
     "panelHeight": 40,
     "expanded": false
   },
+  "cslpBaseUrl": "https://raw.githubusercontent.com/mandobala/mandolinbalajipwa/bfc057f660d10bf73848c6a4cae609219e3feb45/public/LyricsTagged/",
   "bgImages": [
     {
       "url": "https://raw.githubusercontent.com/mandolinbalaji/assets/refs/heads/master/gExt/bgImages/ushri.png",
@@ -12,7 +13,7 @@
   ],
   "videos": [
     {
-      "title": "Practice Track for Samajavaragamana",
+      "title": "Samajavaragaman",
       "url": "https://www.youtube.com/shorts/h7-veC-h0OM",
       "basename": "samajavaragamana_minus"
     }
