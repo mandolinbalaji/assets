@@ -8,10 +8,13 @@
     {
       "url": "https://raw.githubusercontent.com/mandolinbalaji/assets/refs/heads/master/gExt/bgImages/ushri.png",
       "tagline": "Celebrating U Shrinivas"
-    },
+    }
+  ],
+  "videos": [
     {
-      "url": "https://raw.githubusercontent.com/mandolinbalaji/assets/refs/heads/master/gExt/bgImages/ushri.png",
-      "tagline": "Celebrating U Shrinivas"
+      "title": "Practice Track for Samajavaragamana",
+      "url": "https://www.youtube.com/shorts/h7-veC-h0OM",
+      "basename": "samajavaragamana_minus"
     }
   ]
 }
