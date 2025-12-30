@@ -1,0 +1,10 @@
+{
+  "bgImages": {
+    "ushri.png": "Celebrating U Shrinivas"
+  },
+  "config": {
+    "practicePanel": {
+      "enabled": true
+    }
+  }
+}
