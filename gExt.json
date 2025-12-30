@@ -1,10 +1,17 @@
 {
-  "bgImages": {
-    "ushri.png": "Celebrating U Shrinivas"
+  "settings": {
+    "panelWidth": 600,
+    "panelHeight": 40,
+    "expanded": false
   },
-  "config": {
-    "practicePanel": {
-      "enabled": true
+  "bgImages": [
+    {
+      "url": "https://github.com/mandolinbalaji/assets/blob/master/gExt/bgImages/ushri.png",
+      "tagline": "Celebrating U Shrinivas"
+    },
+    {
+      "url": "https://github.com/mandolinbalaji/assets/blob/master/gExt/bgImages/ushri.png",
+      "tagline": "Celebrating U Shrinivas"
     }
-  }
+  ]
 }
