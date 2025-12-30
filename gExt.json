@@ -2,7 +2,8 @@
   "settings": {
     "panelWidth": 600,
     "panelHeight": 40,
-    "expanded": false
+    "expanded": false,
+    "refreshIntervalHours": 1
   },
   "cslpBaseUrl": "https://raw.githubusercontent.com/mandobala/mandolinbalajipwa/bfc057f660d10bf73848c6a4cae609219e3feb45/public/LyricsTagged/",
   "bgImages": [
